@@ -1,0 +1,21 @@
+{
+  "name": "example-project",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-concat-css": "^0.3.2",
+    "grunt-contrib-connect": "^2.0.0",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-htmlmin": "^3.0.0",
+    "grunt-contrib-imagemin": "^3.1.0",
+    "grunt-contrib-uglify": "^4.0.0",
+    "grunt-contrib-watch": "^1.1.0"
+  },
+  "dependencies": {
+    "browserify-server": "^2.1.18",
+    "ecstatic": "^4.1.2",
+    "imagemin": "^6.0.0",
+    "live-reload": "^1.1.0",
+    "syntax-error": "^1.4.0"
+  }
+}
