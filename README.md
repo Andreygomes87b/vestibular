@@ -9,12 +9,12 @@
 ---
 
 ### :metal: *Live version:* 
-[Digital Rights (Live).](https://www.fdsm.edu.br/vestibular/)
+[Vestibular (Live).](https://www.fdsm.edu.br/vestibular/)
 
 ---
 
 ### :date: *Web-archive version:*
-[Digital Rights (Web-archive).](https://web.archive.org/web/20190917200810/https://www.fdsm.edu.br/vestibular/)
+[Vestibular (Web-archive).](https://web.archive.org/web/20190917200810/https://www.fdsm.edu.br/vestibular/)
 
 ---
 
