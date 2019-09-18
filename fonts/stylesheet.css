@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Manjari';
+    src: url('Manjari-Regular.woff2') format('woff2'),
+        url('Manjari-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Manjari';
+    src: url('Manjari-Thin.woff2') format('woff2'),
+        url('Manjari-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Manjari';
+    src: url('Manjari-Bold.woff2') format('woff2'),
+        url('Manjari-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
